@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">henny_s_application1</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg_jus_jeruk_denga">Jus jeruk dengan kandungan vitamin C&#13;
+terbukti menurunkan kolesterol,&#13;
+meningkatkan sistem kekebalan,&#13;
+serta mengurangi risiko obesitas,&#13;
+peradangan, dan tekanan darah.</string>
+<string name="lbl_selanjutnya">Selanjutnya</string>
+<string name="msg_harga_total_r">Harga Total : Rp 25.000</string>
+<string name="lbl_0_100">0/100</string>
+<string name="lbl_08222990310">08222990310</string>
+<string name="lbl_3">3</string>
+<string name="msg_jadikan_hari">Jadikan hari - harimu sehat  dengan 
+resep jus buah dan sayur </string>
+<string name="msg_pilih_buah_atau">Pilih Buah atau  Sayur untuk dicampur</string>
+<string name="msg_tambahkan_peman">Tambahkan Pemanis</string>
+<string name="lbl2">-</string>
+<string name="lbl3">+</string>
+<string name="lbl_jumlah_kalori">Jumlah Kalori</string>
+<string name="msg_ukuran_sendok_t">Ukuran sendok tea</string>
+<string name="lbl_login">Login</string>
+<string name="lbl_tanpa_es_batu">Tanpa Es Batu</string>
+<string name="lbl_hi_i_m_myxa">Hi I\u2019m MyXa</string>
+<string name="lbl_bayar">Bayar</string>
+<string name="msg_hi_ayo_buat_ju">Hi, Ayo Buat Jus Bersamaku</string>
+<string name="lbl_ayo_buat">Ayo, Buat</string>
+<string name="msg_kandungan_polif">Kandungan polifenol yang terdapat&#13;
+pada anggur dipercaya sangat ampuh&#13;
+mencegah penyakit kardiovaskular,&#13;
+melawan radikal bebas, dan
+menunjang endotel.</string>
+<string name="lbl_gula_putih">Gula Putih</string>
+<string name="msg_mari_mulai_memb">Mari mulai membuat jus bersamaku</string>
+<string name="lbl_membuat_jus">Membuat Jus</string>
+<string name="lbl">&gt;</string>
+<string name="msg_tambahkan_catat">Tambahkan Catatan</string>
+<string name="lbl_165_kcal">165 Kcal</string>
+<string name="lbl_jus_anggur">Jus Anggur</string>
+<string name="msg_buat_jusmu_disi">Buat Jusmu Disini dan Nikmati Manfaatnya</string>
+<string name="lbl_jus_jeruk">Jus Jeruk</string>
+</resources>
